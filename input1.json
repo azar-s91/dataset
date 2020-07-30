@@ -1,0 +1,13 @@
+[{"name":"AZAR",
+  "product":"Headphone",
+  "Delivery":{
+      "name":"Azarudeen",
+      "address":"Chennai",
+      "mob":"1234567"}},
+{"name":"Bharath",
+  "product":"T-shirt",
+  "Delivery":{
+      "name":"Bharathiraj",
+      "address":"Bangalore",
+      "mob":"5738612"}}
+]
