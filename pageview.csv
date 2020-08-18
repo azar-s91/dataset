@@ -1,0 +1,23 @@
+Site,www.learntospark.com
+Desccription,"Complete guide to learn Spark,AI,ML"
+Page Views of each blog
+20200817-20200817
+
+Total data in page,12
+
+Page,Date,Pageviews,Unique_Pageviews,Sessions
+Guide to Install Spark,2020-08-17,1140,986,800
+Spark MAP vs FlatMap,2020-08-17,836,800,128
+Spark Architechture,2020-08-17,1569,1345,1400
+Azure Function for Mp3 to text,2020-08-17,350,245,234
+Scala Vs Python,2020-08-17,200,150,130
+Spark Window Function,2020-08-17,789,546,560
+Natural Language Processing,2020-08-17,467,456,100
+Spark Linear Interpolation - Time Series,2020-08-17,698,345,349
+Spark case statement,2020-08-17,234,196,120
+Spark Scenario Based Questions,2020-08-17,712,329,137
+Spark v3.0 Delta Lake,2020-08-17,333,198,39
+Screen Recorder App using Python,2020-08-17,766,567,344
+Spark trick with Show(),2020-08-17,108,35,24
+Spark Cache() Vs Persist,2020-08-17,587,432,300
+Image Processing text to audio,2020-08-17,384,123,84
