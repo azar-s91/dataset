@@ -1,0 +1,106 @@
+Customer_No,Card_type,Date,Category,Transaction Type,Amount
+1000501,Platinum Card,1/1/2018,Shopping,debit,11.11
+1000501,Checking,1/2/2018,Mortgage & Rent,debit,1247.44
+1000501,Silver Card,1/2/2018,Restaurants,debit,24.22
+1000501,Platinum Card,1/3/2018,Credit Card Payment,credit,2298.09
+1000501,Platinum Card,1/4/2018,Movies & DVDs,debit,11.76
+1000501,Silver Card,1/5/2018,Restaurants,debit,25.85
+1000501,Silver Card,1/6/2018,Home Improvement,debit,18.45
+1000501,Checking,1/8/2018,Utilities,debit,45
+1000501,Silver Card,1/8/2018,Home Improvement,debit,15.38
+1000501,Platinum Card,1/9/2018,Music,debit,10.69
+1000501,Checking,1/10/2018,Mobile Phone,debit,89.46
+1000501,Platinum Card,1/11/2018,Gas & Fuel,debit,34.87
+1000501,Platinum Card,1/11/2018,Groceries,debit,43.54
+1000501,Checking,1/12/2018,Paycheck,credit,2000
+1000531,Platinum Card,1/13/2018,Fast Food,debit,32.91
+1000531,Platinum Card,1/13/2018,Shopping,debit,39.05
+1000531,Silver Card,1/15/2018,Groceries,debit,44.19
+1000531,Silver Card,1/15/2018,Restaurants,debit,64.11
+1000531,Checking,1/16/2018,Utilities,debit,35
+1000531,Checking,1/16/2018,Utilities,debit,60
+1000531,Checking,1/19/2018,Paycheck,credit,2000
+1000531,Platinum Card,1/20/2018,Shopping,debit,50.21
+1000531,Platinum Card,1/22/2018,Credit Card Payment,credit,554.99
+1000531,Silver Card,1/22/2018,Credit Card Payment,credit,309.81
+1000531,Checking,1/22/2018,Credit Card Payment,debit,554.99
+1000531,Silver Card,1/22/2018,Home Improvement,debit,17.38
+1000531,Checking,1/23/2018,Credit Card Payment,debit,309.81
+1000654,Platinum Card,1/24/2018,Coffee Shops,debit,3
+1000654,Checking,1/25/2018,Internet,debit,69.99
+1000654,Silver Card,1/29/2018,Gas & Fuel,debit,30.42
+1000654,Silver Card,1/29/2018,Restaurants,debit,25
+1000654,Platinum Card,1/29/2018,Restaurants,debit,17.62
+1000654,Platinum Card,2/1/2018,Groceries,debit,27.79
+1000654,Platinum Card,2/1/2018,Shopping,debit,11.11
+1000654,Checking,2/2/2018,Mortgage & Rent,debit,1247.44
+1000654,Checking,2/2/2018,Paycheck,credit,2000
+1000654,Platinum Card,2/3/2018,Restaurants,debit,57.02
+1000654,Platinum Card,2/4/2018,Movies & DVDs,debit,11.76
+1000654,Platinum Card,2/5/2018,Credit Card Payment,credit,145.14
+1000654,Silver Card,2/6/2018,Credit Card Payment,credit,154.13
+1001863,Checking,2/7/2018,Credit Card Payment,debit,154.13
+1001863,Checking,2/7/2018,Utilities,debit,65
+1001863,Platinum Card,2/9/2018,Haircut,debit,30
+1001863,Platinum Card,2/9/2018,Music,debit,10.69
+1001863,Platinum Card,2/10/2018,Fast Food,debit,10.66
+1001863,Platinum Card,2/11/2018,Restaurants,debit,106.8
+1001863,Silver Card,2/12/2018,Gas & Fuel,debit,36.47
+1001863,Checking,2/12/2018,Mobile Phone,debit,89.52
+1001863,Silver Card,2/14/2018,Alcohol & Bars,debit,14
+1001863,Platinum Card,2/15/2018,Restaurants,debit,10
+1001863,Checking,2/15/2018,Utilities,debit,60
+1001863,Checking,2/16/2018,Paycheck,credit,2000
+1001863,Silver Card,2/16/2018,Restaurants,debit,8
+1001863,Checking,2/16/2018,Utilities,debit,35
+1001863,Silver Card,2/20/2018,Groceries,debit,35.95
+1001863,Silver Card,2/20/2018,Restaurants,debit,23.51
+1001863,Platinum Card,2/21/2018,Coffee Shops,debit,2
+1001863,Silver Card,2/22/2018,Coffee Shops,debit,4
+1001863,Platinum Card,2/26/2018,Credit Card Payment,credit,765.37
+1001368,Silver Card,2/26/2018,Credit Card Payment,credit,156.11
+1001368,Checking,2/26/2018,Credit Card Payment,debit,765.37
+1001368,Checking,2/26/2018,Internet,debit,74.99
+1001368,Silver Card,2/26/2018,Restaurants,debit,85.52
+1001368,Silver Card,2/26/2018,Gas & Fuel,debit,32.21
+1001368,Checking,2/27/2018,Credit Card Payment,debit,156.11
+1001368,Silver Card,3/1/2018,Groceries,debit,32.07
+1001368,Platinum Card,3/1/2018,Shopping,debit,13.13
+1001368,Checking,3/2/2018,Paycheck,credit,1247.44
+1001368,Checking,3/2/2018,Paycheck,credit,2000
+1001368,Silver Card,3/3/2018,Groceries,debit,23.74
+1001368,Platinum Card,3/4/2018,Groceries,debit,10.69
+1001368,Platinum Card,3/4/2018,Movies & DVDs,debit,11.76
+1001368,Platinum Card,3/4/2018,Restaurants,debit,42.24
+1002324,Platinum Card,3/5/2018,Coffee Shops,debit,3
+1002324,Silver Card,3/5/2018,Credit Card Payment,credit,761.59
+1002324,Checking,3/5/2018,Credit Card Payment,debit,761.59
+1002324,Platinum Card,3/7/2018,Coffee Shops,debit,3.5
+1002324,Platinum Card,3/8/2018,Gas & Fuel,debit,34.9
+1002324,Checking,3/8/2018,Utilities,debit,52
+1002324,Platinum Card,3/9/2018,Groceries,debit,20.72
+1002324,Platinum Card,3/9/2018,Groceries,debit,5.09
+1002324,Platinum Card,3/9/2018,Music,debit,10.69
+1002324,Platinum Card,3/12/2018,Groceries,debit,19.35
+1002324,Checking,3/12/2018,Mobile Phone,debit,89.52
+1002324,Platinum Card,3/13/2018,Shopping,debit,45.75
+1002324,Platinum Card,3/14/2018,Groceries,debit,22.5
+1002324,Platinum Card,3/14/2018,Restaurants,debit,8.49
+1002324,Platinum Card,3/15/2018,Coffee Shops,debit,3.5
+1002324,Checking,3/15/2018,Utilities,debit,60
+1002324,Checking,3/16/2018,Paycheck,credit,2000
+1002324,Silver Card,3/17/2018,Alcohol & Bars,debit,19.5
+1000210,Platinum Card,3/17/2018,Fast Food,debit,23.34
+1000210,Silver Card,3/19/2018,Restaurants,debit,36.48
+1000210,Checking,3/19/2018,Utilities,debit,35
+1000210,Platinum Card,3/20/2018,Shopping,debit,14.97
+1000210,Silver Card,3/22/2018,Gas & Fuel,debit,30.55
+1000210,Platinum Card,3/23/2018,Credit Card Payment,credit,559.91
+1000210,Checking,3/23/2018,Credit Card Payment,debit,559.91
+1000210,Silver Card,3/23/2018,Groceries,debit,11.76
+1000210,Checking,3/26/2018,Internet,debit,74.99
+1000210,Silver Card,3/28/2018,Groceries,debit,16.06
+1000210,Silver Card,3/28/2018,Restaurants,debit,24.98
+1000210,Silver Card,3/29/2018,Restaurants,debit,17.64
+1000210,Silver Card,3/30/2018,Groceries,debit,9.09
+1000210,Checking,3/30/2018,Paycheck,credit,2000
