@@ -1,0 +1,19 @@
+Property_ID|Location|Price|Bedrooms|Bathrooms|Size|Price_SQ_FT|Status
+1461262|Arroyo Grande|795000|3|3|2371|365.3|Short Sale
+1478004|Paulo Pablo|399000|4|3|2818|163.59|Short Sale
+1486551|Paulo Pablo|545000|4|3|3032|179.75|Short Sale
+1492832|Santa Bay|909000|4|4|3540|286.78|Short Sale
+1499102|Thomas Country|109900|3|1|1249|98.99|Short Sale
+1489132|Thomas Country|109000|2|1|1129|93.99|Short Sale
+1467262|Fort Worth|987000|4|3|2771|465.3|Short Sale
+1478114|Paulo Pablo|409000|4|3|2918|223.19|Short Sale
+1402551|Nashville|545000|4|3|2932|169.75|Short Sale
+1405832|San Jose|980000|4|4|3340|290.98|Short Sale
+1493302|Fort Worth|119900|3|2|2249|198.99|Short Sale
+1412332|Thomas Country|129000|3|2|1329|73.99|Short Sale
+1469062|Arroyo Grande|798000|3|4|2321|235.9|Short Sale
+1498004|Nashville|789000|4|3|2419|263.59|Short Sale
+1586751|Nashville|896000|4|3|3132|199.75|Short Sale
+1433232|Glendale|987000|4|4|3340|216.78|Short Sale
+1495502|Fort Worth|219900|3|2|987|200.99|Short Sale
+1489100|San Jose|107200|1|1|789|78.99|Short Sale
