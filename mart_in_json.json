@@ -1,0 +1,28 @@
+[{"Type":"Retail Super Market",
+"Area":"CHN004",
+  "year":2022,
+  "Month":5,
+  "fruits":{"item":"apple", "rate":10.25 }, 
+  "Vegetable":{"item":"tomato","rate":5.25 }, 
+  "Stationary":{"item":"Pencil","rate":3.10 },
+  "Appliance":{"item":"Mixer","rate":113.20 }
+},
+{"Type":"Retail Super Market",
+"Area":"DLN004",
+  "year":2022,
+  "Month":5,
+  "fruits":{"item":"apple", "rate":12.15 }, 
+  "Vegetable":{"item":"tomato","rate":9.25 }, 
+  "Stationary":{"item":"Pencil","rate":4.10 },
+  "Appliance":{"item":"Mixer","rate":103.90 }
+},
+{"Type":"Retail Super Market",
+"Area":"MUM011",
+  "year":2022,
+  "Month":5,
+  "fruits":{"item":"apple", "rate":9.5 }, 
+  "Vegetable":{"item":"tomato","rate":5.10 }, 
+  "Stationary":{"item":"Pencil","rate":3.70 },
+  "Appliance":{"item":"Mixer","rate":117.70 }
+}
+]
