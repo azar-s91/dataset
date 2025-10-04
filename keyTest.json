@@ -1,0 +1,3 @@
+{"name":"azarudeen", "grade":"high school", "marks":[{"key":"Science","value":88},  {"key":"English","value":74},{"key":"Maths","value":100}]}
+{"name":"karthick",  "grade":"BE graduate", "marks":[{"key":"Analytics","value":73},{"key":"Dynamics","value":80}]}
+{"name":"Sivakumar", "grade":"high school", "marks":[{"key":"computer","value":69}, {"key":"English","value":64},{"key":"Maths","value":90}]}
